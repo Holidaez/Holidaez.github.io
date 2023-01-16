@@ -3755,8 +3755,8 @@ input, select, textarea {
 
 /* Main */
 	.pfp {
-		max-width:500px;
-		max-height: 500px;
+		max-width:800px;
+		max-height: 800px;
 	}
 	#main {
 		background-color: #ffffff;
